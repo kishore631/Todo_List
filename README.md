@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="todo list" src="https://github.com/user-attachments/assets/cc42f0d9-93f4-43fe-aeae-32ad10b2e3f9" />
+
 # Basic Todo Fullstack (Vite frontend + Express backend)
 
 This archive contains a ready-to-run fullstack Todo app.
